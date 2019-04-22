@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.book.weread</string>
+				<string>com.we.bottle</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WeRead</string>
+				<string>bottle</string>
 			</dict>
 		</dict>
 	</array>
