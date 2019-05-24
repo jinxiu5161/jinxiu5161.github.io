@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bottleChat</string>
+				<string>com.we.bottle</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BottleChat</string>
+				<string>bottle</string>
 			</dict>
 		</dict>
 	</array>
